@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Journy to CyberSec</title>
+    <link>https://damianmdr.github.io/post/</link>
+    <description>Recent content in Posts on Journy to CyberSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 06:52:30 -0300</lastBuildDate><atom:link href="https://damianmdr.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My journey to cybersecurity 0x0.0</title>
+      <link>https://damianmdr.github.io/post/firstpost/</link>
+      <pubDate>Thu, 02 Dec 2021 06:52:30 -0300</pubDate>
+      
+      <guid>https://damianmdr.github.io/post/firstpost/</guid>
+      <description>I will be using this blog to explain the things that I learn on my journey. I hope that this helps somebody on the way.
+ “The person who says he knows what he thinks but cannot express it usually does not know what he thinks.” —Mortimer Adler
+ </description>
+    </item>
+    
+  </channel>
+</rss>
